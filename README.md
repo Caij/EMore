@@ -1,5 +1,5 @@
 # EMore
-微博第三方客户端， EMore的意思是Easy More 更简单的使用。项目本来是开源的，由于一些问题将不开源了。
+微博第三方客户端。项目本来是开源的，由于一些问题将不开源了。
 
 
 ![main](introduce/main.png)   ![message](introduce/message.png)
