@@ -1,5 +1,6 @@
 // 读取地址中的内容
-const urlForInfo = 'https://raw.githubusercontent.com/Caij/EMore/master/update/see_update';
+//const urlForInfo = 'https://raw.githubusercontent.com/Caij/EMore/master/update/see_update';
+const urlForInfo = "https://caij.coding.net/p/datacenter/d/datacenter/git/raw/master/update/see_update"
 
 fetch(urlForInfo).then(res => {
   if(res) {
