@@ -1,0 +1,18 @@
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+.itemContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.itemName {
+  color: green;
+  margin-right: 10px;
+}
